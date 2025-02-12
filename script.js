@@ -54,15 +54,15 @@
 })();
 */
 const messages = [
-    "Are you sure?",
+    "Are you sure lang??",
     "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
+    "Lang?? :((",
+    "Lang please... :((",
+    ":((",
+    "If you say no, I will be really sad... :((",
+    "I will be very sad lang... :((",
+    "I will be very very very sad... :((",
+    "Hays, I will stop asking nalang... :((",
     "Just kidding, say yes please! ❤️"
 ];
 
